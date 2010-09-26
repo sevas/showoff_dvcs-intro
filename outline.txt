@@ -1,0 +1,47 @@
+- intro
+- why revisionning
+- why dvcs
+- mercurial
+- (git)
+- important concepts 
+- demos
+ - create
+ - clone, modify, push changesets
+ - clone, modify, import concurrent changesets, merge, push
+
+
+
+showoff transitions
+--------------------------------------------------------------------------------
+blind{X, Y, Z}
+cover
+curtain{X, Y}
+fade   
+fadeZoom
+grow{X, Y}
+none (this is the default)
+scroll{Up, Down, Left, Right, Horz, Vert}
+shuffle
+slide{X, Y}
+toss
+turn{Up, Down, Left, Right}
+uncover
+wipe
+zoom
+
+
+
+slide styles:
+--------------------------------------------------------------------------------
+center       - centers images on a slide
+full-page    - allows an image to take up the whole slide
+bullets      - sizes and seperates bullets properly (fits up to 5, generally)
+smbullets    - sizes and seperates more bullets (smaller, closer together)
+subsection   - creates a different background for titles
+command      - monospaces h1 title slides
+commandline  - for pasted commandline sections (needs leading ’$’ for commands, then output on subsequent lines)
+code         - monospaces everything on the slide
+incremental  - can be used with ‘bullets’ and ‘commandline’ styles, will incrementally update elements on arrow key rather than switch slides
+small        - make all slide text 80%
+smaller      - make all slide text 70%
+execute      - on js highlighted code slides, you can click on the code to execute it and display the results on t
