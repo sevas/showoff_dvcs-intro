@@ -28,12 +28,21 @@
 ## Yet again remembering all those commands
 
 
+
 !SLIDE
 
 # And I never had any problem until now !
+
+
+
+!SLIDE
+
+# However ...
+
 
 
 !SLIDE
 
 # *"Anything that can go wrong, will go wrong."*
 ## [Murphy's Law](http://en.wikipedia.org/wiki/Murphy's_law) 
+

@@ -1,5 +1,5 @@
 { "name": "Modern Version Control with Mercurial", 
-  "sections": [ {"section":"one"},
+  "sections": [ {"section":"intro"},
                 {"section":"versionning"},
                 {"section":"mercurial"},
                 {"section":"demos"},
