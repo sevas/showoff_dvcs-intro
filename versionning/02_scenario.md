@@ -188,7 +188,8 @@
 !SLIDE center
 
 # Handling concurrent changes ?
-## ``ctrl-C``,  ``ctrl V``
+## Careful review
+## ``ctrl-C``,  ``ctrl-V``
 
 ![](files_shadow.png)
 
