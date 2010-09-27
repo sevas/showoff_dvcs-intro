@@ -32,9 +32,9 @@
 
 # For every modification, a VCS should anwer to :
 
-* what
-* when
-* who
+* What ?
+* When ?
+* Who ?
 
 
 !SLIDE bullets incremental

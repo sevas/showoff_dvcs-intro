@@ -160,6 +160,14 @@
 * You will probably make a mistake
 
 
+
+!SLIDE
+
+## Keypoint:
+# Don't manage different versions of your source files **in** the source files
+
+
+
 !SLIDE transition=toss
 
 # Enters collaborative work
@@ -169,14 +177,37 @@
 ![Yay, collaboration!](mice_shadow.png)
 
 
+!SLIDE bullets incremental
+
+
+# Sharing changes with your team ?
+
+* USB Flashdrive !
+* EMail !
+
+!SLIDE center
+
+# Handling concurrent changes ?
+## ``ctrl-C``,  ``ctrl V``
+
+![](files_shadow.png)
+
 
 !SLIDE
 
-
-
+## Keypoint:
+# Highlighting and resolving differences in text files is easy to do for a computer 
+## Let it do the work 
 
 !SLIDE
 
 # **Repeat** :
 # *"Anything that can go wrong, will go wrong."*
+
+
+
+!SLIDE
+
+# There has to be a better way
+
 
