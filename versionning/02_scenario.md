@@ -63,7 +63,7 @@
 
 !SLIDE transition=scrollLeft
 
-# Popquizz
+# Pop Quizz
 
 !SLIDE small
 
@@ -184,6 +184,8 @@
 
 * USB Flashdrive !
 * EMail !
+
+
 
 !SLIDE center
 
