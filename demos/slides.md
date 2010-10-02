@@ -2,4 +2,4 @@
 
 # *Demos*
 
-![mercurial logo](mercurial_logo.png)]
+![mercurial logo](mercurial_logo.png)

@@ -135,20 +135,24 @@
 
 
 
-!SLIDE
+!SLIDE bullets incremental
 
 # On a sufficiently small project, this might work
-## But who cares about having 3 versions of the same function ?
+
+## But do you really want to maintain 3 versions of the same function? 
+
 
 !SLIDE
 
 # This is not good
 
 
-!SLIDE 
+!SLIDE bullets incremental
 
 # Now, for the bad part
-## What if you **need** to go back to an older, working version?
+* What if you **need** to go back to an older, working version?
+* Also, debugging
+
 
 
 !SLIDE bullets incremental
@@ -190,11 +194,13 @@
 !SLIDE center
 
 # Handling concurrent changes ?
-## Careful review
-## ``ctrl-C``,  ``ctrl-V``
+## Careful line by line review
+
 
 ![](files_shadow.png)
 
+
+## Again, you will make mistakes
 
 !SLIDE
 

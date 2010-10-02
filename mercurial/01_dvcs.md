@@ -28,7 +28,7 @@
 
 # Distributed Version Control Systems
 * state of the art
-* lessons learned
+* lessons learned from svn et al.
 * handles concurrent changes better than predecessors
 * which is a big deal, actually
 
@@ -38,6 +38,6 @@
 # DVCS : P2P architecture
 
 * free backup for every team member
-* no restriction on collaboration model
+* no restriction on the collaboration strategy
 * which is a big deal, actually
 
