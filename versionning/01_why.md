@@ -1,4 +1,3 @@
-
 !SLIDE transition=turnUp
 
 # Why would I do that ? #
@@ -12,9 +11,12 @@
 ## All that programming and stuff
 
 
+
 !SLIDE
 
 # I feel your pain
+
+
 
 !SLIDE
 

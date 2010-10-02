@@ -27,7 +27,6 @@
 ## *"[...] is the management of changes to documents, programs, and other information stored as computer files."*
 
 
-
 !SLIDE bullets incremental
 
 # For every modification, a VCS should anwer to :
@@ -35,6 +34,7 @@
 * What ?
 * When ?
 * Who ?
+
 
 
 !SLIDE bullets incremental

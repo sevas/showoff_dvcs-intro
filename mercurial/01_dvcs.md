@@ -5,6 +5,7 @@
 ![](Unicorn.jpeg)
 
 
+
 !SLIDE bullets incremental small
 
 # A brief history 
@@ -12,6 +13,7 @@
 * RCS
 * Centralized systems : cvs, svn, perforce
 * Distributed systems : **mercurial (hg)**, git, bazaar
+
 
 
 !SLIDE bullets incremental small
@@ -24,6 +26,7 @@
 * help resolve them
 
 
+
 !SLIDE bullets incremental small
 
 # Distributed Version Control Systems
@@ -33,6 +36,7 @@
 * which is a big deal, actually
 
 
+
 !SLIDE bullets incremental small
 
 # DVCS : P2P architecture
@@ -40,4 +44,3 @@
 * free backup for every team member
 * no restriction on the collaboration strategy
 * which is a big deal, actually
-

@@ -4,6 +4,7 @@
 ## Bad patterns in non-revisionned code
 
 
+
 !SLIDE 
 
 # Start a new project,
@@ -24,7 +25,10 @@
             sum += a_list[i]
         return sum
 
+
+
 !SLIDE
+
 # Try out a new approach, comment out the old version
 
     @@@ python
@@ -36,6 +40,7 @@
         for value in a_list:
             sum += value
         return sum
+
 
 
 !SLIDE
@@ -61,9 +66,12 @@
 ## The poor readability should strike you
 
 
+
 !SLIDE transition=scrollLeft
 
 # Pop Quizz
+
+
 
 !SLIDE small
 
@@ -100,11 +108,13 @@
         print i
         sleep(1)
 
+
     
 !SLIDE  transition=scrollRight
 
 # Readability is important for productivity
 ## Don't undermine this
+
 
 
 !SLIDE smaller 
@@ -142,16 +152,18 @@
 ## But do you really want to maintain 3 versions of the same function? 
 
 
+
 !SLIDE
 
 # This is not good
+
 
 
 !SLIDE bullets incremental
 
 # Now, for the bad part
 * What if you **need** to go back to an older, working version?
-* Also, debugging
+* Also, creating experiments for debugging
 
 
 
@@ -160,7 +172,7 @@
 # Reverting commented parts one by one!
 
 * This will be very error prone
-* and unproductive.
+* Not to mention, unproductive.
 * You will probably make a mistake
 
 
@@ -172,17 +184,20 @@
 
 
 
+
 !SLIDE transition=toss
 
 # Enters collaborative work
 
-!SLIDE center transition=slideY
+
+
+!SLIDE center 
 
 ![Yay, collaboration!](mice_shadow.png)
 
 
-!SLIDE bullets incremental
 
+!SLIDE bullets incremental
 
 # Sharing changes with your team ?
 
@@ -196,17 +211,17 @@
 # Handling concurrent changes ?
 ## Careful line by line review
 
-
 ![](files_shadow.png)
 
-
 ## Again, you will make mistakes
+
+
 
 !SLIDE
 
 ## Keypoint:
-# Highlighting and resolving differences in text files is easy to do for a computer 
-## Let it do the work 
+# Detecting and resolving differences in text files is easy to do for a computer 
+## Let it do the work
 
 
 
