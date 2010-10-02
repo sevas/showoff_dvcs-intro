@@ -208,11 +208,6 @@
 # Highlighting and resolving differences in text files is easy to do for a computer 
 ## Let it do the work 
 
-!SLIDE
-
-# **Repeat** :
-# *"Anything that can go wrong, will go wrong."*
-
 
 
 !SLIDE
