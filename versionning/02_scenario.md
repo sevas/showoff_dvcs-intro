@@ -205,6 +205,10 @@
 * EMail !
 
 
+!SLIDE  full-page
+
+![email](email.png)
+
 
 !SLIDE center
 
