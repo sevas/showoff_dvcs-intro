@@ -4,7 +4,7 @@
 
 
 
-!SLIDE incremental
+!SLIDE 
 
 # I already have enough work !
 

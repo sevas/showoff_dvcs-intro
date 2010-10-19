@@ -11,8 +11,8 @@
 # A brief history 
 
 * RCS
-* Centralized systems : cvs, svn, perforce
-* Distributed systems : **mercurial (hg)**, git, bazaar
+* centralized systems : cvs, svn, perforce
+* distributed systems : mercurial (hg), git, bazaar
 
 
 

@@ -113,7 +113,7 @@
 !SLIDE  transition=scrollRight
 
 # Readability is important for productivity
-## Don't undermine this
+## don't undermine this
 
 
 
@@ -145,25 +145,25 @@
 
 
 
-!SLIDE bullets incremental
+!SLIDE
 
 # On a sufficiently small project, this might work
 
-## But do you really want to maintain 3 versions of the same function? 
+## but do you really want to maintain 3 versions of the same function? 
 
 
 
 !SLIDE
 
-# This is not good
+# This is **not** good
 
 
 
 !SLIDE bullets incremental
 
 # Now, for the bad part
-* What if you **need** to go back to an older, working version?
-* Also, creating experiments for debugging
+* what if you **need** to go back to an older, working version?
+* also, creating experiments for debugging
 
 
 
@@ -171,10 +171,9 @@
 
 # Reverting commented parts one by one!
 
-* This will be very error prone
-* Not to mention, unproductive.
-* You will probably make a mistake
-
+* this will be very error prone
+* not to mention, unproductive.
+* you will probably make a mistake
 
 
 !SLIDE
@@ -201,23 +200,38 @@
 
 # Sharing changes with your team ?
 
-* USB Flashdrive !
-* EMail !
+* usb flashdrive !
+* email !
 
 
-!SLIDE  full-page
+!SLIDE full-page-image
+
+![No!](marshmallow17.png)
+
+
+Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://hyperboleandahalf.blogspot.com/"><a rel="cc:attributionURL" property="cc:attributionName" href="http://hyperboleandahalf.blogspot.com/2010/10/god-of-cake.html">Allie Brosh</a> / <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">(CC)</a></div>
+
+
+!SLIDE  full-page-image
 
 ![email](email.png)
+
+Image source <span xmlns:cc=""
+about="http://theoatmeal.com/"><a rel="cc:attributionURL"
+property="cc:attributionName"
+href="http://theoatmeal.com/comics/email">Matthew
+Inman</a> </div>
+
 
 
 !SLIDE center
 
 # Handling concurrent changes ?
-## Careful line by line review
+## careful line by line review
 
 ![](files_shadow.png)
 
-## Again, you will make mistakes
+## again, you will make mistakes
 
 
 
@@ -225,7 +239,7 @@
 
 ## Keypoint:
 # Detecting and resolving differences in text files is easy to do for a computer 
-## Let it do the work
+## let it do the work
 
 
 

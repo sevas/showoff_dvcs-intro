@@ -1,4 +1,13 @@
 !SLIDE title-slide center
+
+<script type="text/javascript">
+// Should get this to be triggered as part of setupPreso()
+$(function(){
+  $('a').replaceCcWithLogo();
+});
+</script>
+
+
 # Modern Version Control with Mercurial (hg) #
 
 ![hg-logo](mercurial_logo.png)
