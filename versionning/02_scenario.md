@@ -214,20 +214,27 @@ Image courtesy of <span xmlns:cc="http://creativecommons.org/ns#" about="http://
 
 !SLIDE  full-page-image
 
-![email](email.png)
+![email from hell](email.png)
 
-Image source <span xmlns:cc=""
-about="http://theoatmeal.com/"><a rel="cc:attributionURL"
-property="cc:attributionName"
-href="http://theoatmeal.com/comics/email">Matthew
-Inman</a> </div>
+Image courtesy of [Matthew Inman](http://theoatmeal.com/comics/email)
+
+
+
+!SLIDE full-page-image
+
+![Yay collaboration!](email_filename.png)
+
+
+!SLIDE center
+
+![](this_is_unacceptable.png)
 
 
 
 !SLIDE center
 
 # Handling concurrent changes ?
-## careful line by line review
+## careful line by line review ! 
 
 ![](files_shadow.png)
 

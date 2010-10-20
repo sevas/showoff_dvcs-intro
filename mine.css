@@ -8,15 +8,12 @@
 
 
 .full-page-image img:first-child {
-  
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-  /*margin: none;*/
-  padding: 0;
-  width: auto;
-  /* Set the height dynamically depending on the image's current width, keeping the aspect ratio */
-  height: 738px;
+    margin: none;
+    padding: 0;
+    width: 100%;
+    /* Set the height dynamically depending on the image's current width, keeping the aspect ratio */
+    /*height: 738px;*/
+    height: auto;
 }
 
 .full-page-image img.cc {
@@ -41,7 +38,7 @@
 .full-page-image p:not(:first-child) {
   position: relative;
   opacity: .6;
-  top: -3em;
+  top: -5em;
   padding: 0.4em 0.9em 0.4em 0.9em;
   color: dark-grey;
   font-size: 1em;
